@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 author: "Joey Ferkull"
-date: "10/11/2021"
 ---
 
 ```{r setup, include=FALSE}
